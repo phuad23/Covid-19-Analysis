@@ -18,7 +18,7 @@ The Data was cleaned using Microsoft Excel before laoding the Data to Microsoft 
 
 The Analysis was carried out while the Visualization was done with Microsoft PowerBi. 
 
-The Dashboard for the analysis can be seen [Here]()
+The Dashboard for the analysis can be seen [Here](https://github.com/phuad23/Covid-19-Analysis/blob/main/covid%2019%20dashboard.pbix)
 
 
 
