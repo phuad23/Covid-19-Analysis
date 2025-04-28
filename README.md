@@ -20,6 +20,10 @@ The Analysis was carried out while the Visualization was done with Microsoft Pow
 
 The Dashboard for the analysis can be seen [Here](https://github.com/phuad23/Covid-19-Analysis/blob/main/covid%2019%20dashboard.pbix)
 
+The image of the dashboard can be seen below
+![Dashboard](https://github.com/phuad23/Covid-19-Analysis/blob/main/Covid.PNG)
+
+
 
 
 
